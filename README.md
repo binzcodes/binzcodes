@@ -1,6 +1,6 @@
-> Contract Software Engineer, DevOps guy and Digital Nomad. 
+`Software Engineer, DevOps guy and Digital Nomad.`
 
-I build cloud-native web applications while travelling, mostly with Node.js.
+I make cloud-native web applications while travelling, mostly with Node.js.
 
 <!---
 binzcodes/binzcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
